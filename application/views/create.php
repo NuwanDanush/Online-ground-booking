@@ -116,7 +116,7 @@
          </section>
 
          <footer>
-             <h1><center> Online Ground Booking &copy; 2019</center></h1>
+             <h1><center> Online Ground Booking </center></h1>
          </footer>
     </body>
 </html>  
